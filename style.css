@@ -53,5 +53,20 @@ nav{
 }
 /* hero */
 .hero {
- font-size: ;
+  display: flex;
+  gap:20px;
+
+}
+.placeholder{
+    background-color: gray;
+    min-width: 450px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.hero button{
+    border-radius: 10%;
+    padding: 10px 25px;
+    margin-top: 3px;
+    background-color: #3882f6;
 }
