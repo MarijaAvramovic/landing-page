@@ -11,11 +11,18 @@ body{
 
 header{
     background-color: #1f2937;
-    color: #f9faf8;
-    font-size: 24px;
-    
+    color: #e5e7eb;
+    font-size: 18px;
 }
-
+header h1{
+    font-size: 48px;
+    color: #f9faf8;
+    font-weight: 900;
+}
+.logo{
+    font-size: 24px;
+    color: #f9faf8;
+}
 header, .random, .action, .quote{
      padding: 0 100px;
 }
@@ -32,13 +39,19 @@ nav ul{
     list-style: none;
     display: flex;
     gap: 10px;
+    align-items: center;
 }
 nav a{
     text-decoration: none;
     color: #e5e7eb;
-    font-size: 18px;
+     
 }
 nav{
     display: flex;
     justify-content: space-between;
+    margin-bottom: 60px;
+}
+/* hero */
+.hero {
+ font-size: ;
 }
