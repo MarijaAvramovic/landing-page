@@ -23,3 +23,15 @@ footer{
 .quote{
      background-color: #e5e7eb;
 }
+
+
+/* update list and ul */
+nav ul{
+    list-style: none;
+    display: flex;
+}
+nav ul a{
+    text-decoration: none;
+    color: #e5e7eb;
+    font-size: 18px;
+}
