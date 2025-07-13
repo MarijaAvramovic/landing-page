@@ -11,7 +11,9 @@ body{
 
 header{
     background-color: #1f2937;
-    color: white;
+    color: #f9faf8;
+    font-size: 24px;
+    
 }
 
 header, .random, .action, .quote{
@@ -29,9 +31,14 @@ footer{
 nav ul{
     list-style: none;
     display: flex;
+    gap: 10px;
 }
-nav ul a{
+nav a{
     text-decoration: none;
     color: #e5e7eb;
     font-size: 18px;
+}
+nav{
+    display: flex;
+    justify-content: space-between;
 }
