@@ -19,3 +19,6 @@ Project is not moblie responsive per TOP instructions.
 I published my project in order to upload solution to odin landing-page project.
 
 
+*I had to revise flex property multiple times.
+
+
