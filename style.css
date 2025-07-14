@@ -6,6 +6,7 @@
 }
 body{
     font-family: Roboto, Arial, sans-serif;
+    
  
 }
 
@@ -57,6 +58,7 @@ nav{
   gap:20px;
   padding-bottom: 50px;
  
+ 
 }
  
 .placeholder{
@@ -66,6 +68,7 @@ nav{
     justify-content: center;
     align-items: center;
     min-width: 400px;
+ 
 }
 .hero button{
     border-radius: 10%;
@@ -76,22 +79,38 @@ nav{
 /* random info */
 .random {
      text-align: center;
+     display: flex;
+     flex-direction: column;
+     align-items: center;
+     padding-bottom: 60px;
+   
 }
 .random h2{
      color: #1f2937;
      font-size: 36px;
      font-weight: 900;
+     margin-bottom: 30px;
 }
 .items{
-    padding: 10px 45px;
+    
     display: flex;
-     gap: 5px;
+    justify-content: center;
+    gap: 25px;     
+    max-width: 5500px;
+    flex-wrap: wrap;
+}
+.item{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    eight: 120px;
+    width: 120px;
+    
 }
 
 .content{
     border-radius: 10%;
     border: #3882f6 solid 3px;
-    height: 200px;
-    width: 200px;
-
+    height: 120px;
+    width: 120px;
 }
