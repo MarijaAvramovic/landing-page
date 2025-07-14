@@ -27,16 +27,20 @@ so far it took me 3,5 hr for landing page
 looking forward to check solution and then learn how to branch and change content so landing page has my own content.
 
 *learn
--blockquote still use div
--recap shring in hero section
+-blockquote still use div -quote use span as block
+learn
+-recap shrink in hero section
+
 -check flex wrap
--align items baseline
+
+use 
 -line-height
+
 -use vw for width
--when using flex with 2 divs use name left and right
+ 
 -img style in html and use %
--use name gallery/gallery card abriviation
--quote use span as block
--left and right use flex 1
+ 
+
+ 
 
 
