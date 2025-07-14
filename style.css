@@ -90,20 +90,21 @@ nav{
      font-size: 36px;
      font-weight: 900;
      margin-bottom: 30px;
+     margin-top: 20px;
 }
 .items{
     
     display: flex;
-    justify-content: center;
-    gap: 25px;     
-    max-width: 5500px;
+    justify-content: space-between;
+    
+    width: 700px;
     flex-wrap: wrap;
 }
 .item{
     display: flex;
     flex-direction: column;
     align-items: center;
-    eight: 120px;
+     
     width: 120px;
     
 }
@@ -113,4 +114,29 @@ nav{
     border: #3882f6 solid 3px;
     height: 120px;
     width: 120px;
+}
+
+.quote{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 50px 0;
+}
+.container-quote{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 700px;
+     text-align: left;
+     font-size: 36px; 
+     font-style: italic;
+     font-weight: light;
+     color: #1f2937;
+   
+}
+#right{
+    align-self: flex-end;
+    font-weight: 900;
+    font-style: normal;
 }
