@@ -140,3 +140,8 @@ nav{
     font-weight: 900;
     font-style: normal;
 }
+/* action add padding top bottom */
+.action{
+    padding-top: 35px;
+    padding-bottom: 35px ;
+}
