@@ -22,6 +22,8 @@ I published my project in order to upload solution to odin landing-page project.
 *I had to revise flex property multiple times. 
 flex 1, flex wrap check if responsive
 
-so far it took me 2 hr for all of this.
+so far it took me 3,5 hr for landing page
+
+looking forward to check solution and then learn how to branch and change content so landing page has my own content
 
 
