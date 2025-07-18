@@ -1,7 +1,7 @@
 # landing-page
 For this project  I ll be creating an entire web page.
 
-I modified and substituted my own content into this design. The image used instead of the placeholder, the creator of the image - website Pixabay.
+ 
 
 Tru project I used commit early & often.
 
