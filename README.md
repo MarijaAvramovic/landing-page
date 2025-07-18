@@ -39,7 +39,10 @@ use
 -use vw for width
  
 -img style in html and use %
+
+learned how to use git branch 
  
+ checking
 
  
 
